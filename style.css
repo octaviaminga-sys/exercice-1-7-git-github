@@ -19,3 +19,7 @@ main {
     background-color: white;
     border-radius: 10px;
 }
+
+h1 {
+    letter-spacing: 1px;
+}
